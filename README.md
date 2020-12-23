@@ -1,12 +1,12 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project I have created CRUD Operation using React js. We are creating crud using multiple dependencies axios, bootstrap, concurrently, react-router-dom and using usestate, useEffect, functional component, template literals in JSX , react Fragment. And these will create with in help of npm. In this we are creating multiple users, edit their information, delete their information and show the all users list. 
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm run json-server`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
