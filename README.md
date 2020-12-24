@@ -1,29 +1,31 @@
 # CRUD-React-JS
 
 <h2>Create User</h2>
-View all users list
-Show user
-Edit User
-Delete User
+<ul>
+  <li>View all users list</li>
+  <li>Show user</li>
+  <li>Edit User</li>
+  <li>Delete User</li>
+</ul>
 
-CREATE PROJECT:
-npx create-react-app users
-cd users
-npm start
+<h2>CREATE PROJECT:</h2>
+npx create-react-app users <br>
+cd users <br>
+npm start <br>
 
-SCREENSHOT:
-All User list (Dashboard) :
+<h2>SCREENSHOT:</h2>
+<h3>All User list (Dashboard) :</h3>
 ![Dashboard](https://github.com/sudhaarora04/CRUD-React-JS/blob/master/home.png)
 
-View Page :
+<h3>View Page :</h3>
 ![Dashboard](https://github.com/sudhaarora04/CRUD-React-JS/blob/master/view.png)
 
-Edit Page : 
+<h3>Edit Page : </h3>
 ![Dashboard](https://github.com/sudhaarora04/CRUD-React-JS/blob/master/edit.png)
 
-Add Page :
+<h3>Add Page :</h3>
 ![Dashboard](https://github.com/sudhaarora04/CRUD-React-JS/blob/master/create.png)
 
-RUNNING:
+<h2>RUNNING:</h2>
 npm run start:dev
 open http://localhost:3000 and http://localhost:3003
