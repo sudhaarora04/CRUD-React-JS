@@ -1,6 +1,6 @@
 # CRUD-React-JS
 
-Create User
+<h2>Create User</h2>
 View all users list
 Show user
 Edit User
