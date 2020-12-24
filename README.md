@@ -12,7 +12,7 @@ cd users
 npm start
 
 SCREENSHOT:
-![Dashboard](https://github.com/[sudhaarora04]/[reponame]/blob/[master]/home.png?raw=true)
+![Dashboard](https://github.com/sudhaarora04/CRUD-React-JS/blob/master/home.png)
 
 RUNNING:
 npm run start:dev
